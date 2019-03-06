@@ -1,18 +1,4 @@
-# ft700
-Py
-# 最新資訊
-
-
-# 下載範例
-
-
-# 參考連結
-
-
-
-# 勘誤表
-
-# iVision 無線影像辨識套件手冊
+# Test ---- iVision 無線影像辨識套件手冊
 
  - 目前版本：1.2
  - 最新線上版網址：https://flagtech.github.io/ivision/ 
